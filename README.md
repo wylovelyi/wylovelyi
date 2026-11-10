@@ -41,7 +41,7 @@
 ## 📌 关于仓库列表
 
 - 列表里 fork 较多，是给上游提补丁时的工作副本，不是原创项目。
-- `dkd-parent`（Java 后端）/ `dkd-vue`（Vue 前端）是基于 Ruoyi 的前后端分离练习项目，README 仍沿用上游模板。
+- `dkd-parent` / `dkd-vue` 是基于 RuoYi 3.8.7 的前后端分离二次开发练习项目，README 顶部已写明我的改动范围与对应提交。
 
 ---
 
