@@ -9,7 +9,7 @@
 | 方向 | 用到什么 |
 | --- | --- |
 | 后端 | Java 8 / 17、Spring Boot 2.x、MyBatis / MyBatis-Plus、Maven、JUnit 5 |
-| 前端 | Vue、Vite、Element UI |
+| 前端 | Vue 2/3、Vite、Element UI / Element Plus |
 | 数据与工具 | MySQL、Redis、Swagger、Git / GitHub Actions |
 | 在学 | Python、LangGraph、LLM Agent 工程化、MCP |
 
